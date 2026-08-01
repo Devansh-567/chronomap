@@ -5,6 +5,10 @@ Format loosely follows [Keep a Changelog](https://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [3.0.1] - 2026-08-01
+
+_No user-facing changes this cycle._
+
 ### Added
 
 - Copyright/license header on every file under `src/` and `tests/`:
